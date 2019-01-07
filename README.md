@@ -1,4 +1,6 @@
 # Rasengan
+![image](https://github.com/ZLWHappy/Rasengan/blob/master/onescene.png)
+
 A simple visualization implementaion of the rasengan of Naruto
 
 there is no complict techniques:
